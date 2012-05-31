@@ -1,0 +1,8 @@
+*.bsp
+*.wav
+*.vmx
+*.prt
+*.log
+*koth*
+*ctf*
+
